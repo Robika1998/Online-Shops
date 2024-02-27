@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "a892",
+      "title": "uliuliul",
+      "price": "22222",
+      "year": "iluil",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": null,
+      "title": "apply",
+      "price": "",
+      "year": "",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": null,
+      "title": "macbok",
+      "price": "12321",
+      "year": "12331",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": null,
+      "title": "macbok",
+      "price": "12321",
+      "year": "12331",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": null,
+      "title": "kjlkl",
+      "price": "kljkl",
+      "year": "",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": null,
+      "title": "macbook",
+      "price": "1221",
+      "year": "2022",
+      "configure": {
+        "chip": "2222",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    }
+  ]
+}
